@@ -1,17 +1,29 @@
 <template>
   <div id="app">
+    <!-- comment out
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+    -->
+    <!-- add start -->
+    <DataBindingTest />
+    <!-- add end -->
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import HelloWorld from './components/HelloWorld.vue';
+// comment out
+//import HelloWorld from './components/HelloWorld.vue';
+// add start 
+import TodoList from "./components/TodoList.vue";
+import DataBindingTest from "./components/DataBindingTest.vue";
+// add end
 
 @Component({
   components: {
-    HelloWorld,
+    //HelloWorld, // comment out
+    TodoList,
+    DataBindingTest,
   },
 })
 export default class App extends Vue {}

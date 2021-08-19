@@ -1,19 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ad7c65cb8e368a0368e",
-    "url": "/vuetodotest01/css/app.50db9c19.css"
+    "revision": "5bbd86dcaeaab9f643d1",
+    "url": "/vuetodotest01/css/app.d08c9723.css"
   },
   {
-    "revision": "82b9c7a5a3f405032b1db71a25f67021",
-    "url": "/vuetodotest01/img/logo.82b9c7a5.png"
-  },
-  {
-    "revision": "760d1706dcccb91271781dd9dcd5199b",
+    "revision": "f67c30b37184fdd98497627fdea759c6",
     "url": "/vuetodotest01/index.html"
   },
   {
-    "revision": "5ad7c65cb8e368a0368e",
-    "url": "/vuetodotest01/js/app.5f089424.js"
+    "revision": "5bbd86dcaeaab9f643d1",
+    "url": "/vuetodotest01/js/app.f855db28.js"
   },
   {
     "revision": "aece0511eef5f47af459",
