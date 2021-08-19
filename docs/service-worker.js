@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vuetodotest01/precache-manifest.4d9764c2d9c48c492a91b7aee25a9143.js"
+  "/vuetodotest01/precache-manifest.e5b23cbe3152fb964d870cf6f640b1c5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuetodotest01"});
